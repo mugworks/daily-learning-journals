@@ -1,0 +1,3 @@
+# Day 2 Learning Journal
+
+I felt comfortable doing the javascript portion of the lab because it was using some concepts that I practiced yesterday. I opted to work with Amy on understanding how to create the html/css portion because I had a vision in mind but wasn't sure how to proceed. I wanted to put the four areas: bio, job experience, education and goals in four separate boxes. Amy helped me utilize my software more effectively. I'm still confused when to use/not use divs but it sounds like many developers are confused as well.
